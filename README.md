@@ -15,15 +15,6 @@ GCC 4.8.4 - Compiler used
 ⚠️ Prerequisites
 Must have git installed.
 
-Must have repository cloned.
-
-$ sudo apt-get install git
-⬇️ Installing and Using
-Clone the repository into a new directory:
-
-$ git clone https://github.com/BennettDixon/monty.git
-Compile with the following:
-
 gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 Run the interpreter on a file:
 
