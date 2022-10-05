@@ -139,9 +139,6 @@ $ ./monty queue.m
 2
 3
 📚 Coding Style Tests
-Strictly followed Betty style guide. To install
-
-$ git clone https://github.com/holbertonschool/Betty.git
 
 $ cd Betty; ./install.sh
 
